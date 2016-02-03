@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.nirtamir2.googledevelopertrainingapp.MainActivity"/>
+      <point      
+        x = "3060"      
+        y = "624"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.nirtamir2.googledevelopertrainingapp.DisplayMessageActivity"/>
+      <point      
+        x = "1996"      
+        y = "216"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.nirtamir2.googledevelopertrainingapp.MyActivity"/>
+      <point      
+        x = "548"      
+        y = "148"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>

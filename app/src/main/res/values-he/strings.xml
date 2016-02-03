@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">"האפליקציה הראשונה שלי"</string>
+    <string name="edit_message">"הכנס הודעה"</string>
+    <string name="button_send">"שלח"</string>
+    <string name="action_settings">"הגדרות"</string>
+    <string name="title_activity_display_message">"ההודעה שלי"</string>
+
+</resources>
